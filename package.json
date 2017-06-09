@@ -1,5 +1,5 @@
 {
-  "name": "bip39",
+  "name": "bacoor-bip39",
   "version": "2.3.1",
   "description": "Bitcoin BIP39: Mnemonic code for generating deterministic keys",
   "main": "index.js",
@@ -20,7 +20,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/weilu/bip39.git"
+    "url": "https://github.com/bacoorjp/bip39.git"
   },
   "license": "ISC",
   "dependencies": {
